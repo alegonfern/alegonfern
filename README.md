@@ -25,6 +25,10 @@ Proyecto consiste en consolidar los sistemas de una empresa multinacional en Chi
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alegonfern&show_icons=true&theme=radical)
 
+## Estadísticas Adicionales
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alegonfern&layout=compact&theme=radical)
+
+
 ## Contacto
 - 📧 Correo Electrónico: alegonfern@gmail.com
 - 💼 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/alegonfern/)
